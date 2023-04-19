@@ -1,0 +1,15 @@
+*{
+    background-image: linear-gradient(to right, #CC7CB6, #210535);
+    font-family: 'Syne', sans-serif;
+}
+
+.btn-projects {
+    font-family: 'Syne';
+    font-size: 1.2em;
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(to right, #acfbfe, #C6ACFE);
+    padding: 10px 20px;
+    border-radius: 30px;
+}
+
